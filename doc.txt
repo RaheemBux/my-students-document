@@ -1,4 +1,5 @@
 This is first commit in text file while learning github on github]
 added a new line
 This is a new commit from turab
-This line is added frome Ayoob
+This line is added frome Ayoob.
+This Line is added From Jatender Khatri.
