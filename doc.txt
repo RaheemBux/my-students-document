@@ -1,1 +1,2 @@
-This is first commit in text file while learning github on github
+This is first commit in text file while learning github on github]
+added a new line
